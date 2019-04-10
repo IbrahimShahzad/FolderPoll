@@ -2,14 +2,6 @@
 Dir='/home/ibi/Documents/Linux/Test_Folder'
 mail='root@localhost' # /var/mail/root
 
-#check for logfile 1 (if exists do nothing else create)
-#
-#check the directory and update logfile2
-#Highlight difference between logfile1 and logfile2
-#if difference send email
-#update the logfile1
-#repeat after every 3 seconds
-
 #To check the difference between to log files after every 3 minutes.
 file1='logfile1.txt' 
 file2='logfile2.txt'
