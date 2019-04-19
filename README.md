@@ -1,5 +1,7 @@
 # FolderPoll
-Polls the directory and notifies the changes via email and displays via webpage (http://localhost)
+
+A) Checks to see if apache server is installed, if not it first installs and starts the apache server.
+B) Polls the directory and notifies the changes via email and displays via webpage (http://localhost)
 
 Dir is the Directory that needs to be polled.
 
